@@ -7,17 +7,17 @@ class Carousel {
     {
       id: 0,
       title: 'BEST LAPTOP DEALS',
-      img: './assets/images/default-slide-img.jpg'
+      img: '/assets/images/default-slide-img.jpg'
     },
     {
       id: 1,
       title: 'BEST HEADPHONES DEALS',
-      img: './assets/images/default-slide-img.jpg'
+      img: '/assets/images/default-slide-img.jpg'
     },
     {
       id: 2,
       title: 'BEST SPEAKERS DEALS',
-      img: './assets/images/default-slide-img.jpg'
+      img: '/assets/images/default-slide-img.jpg'
     }
   ];
 
